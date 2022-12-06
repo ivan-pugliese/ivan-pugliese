@@ -1,6 +1,5 @@
 ### Hi there 👋, I´m Ivan
 
-<h2><i>Follow me:</i></h2>
 <div  align="center">
 
   <a href="https://www.linkedin.com/in/ivan-pugliese-developer/" target="_blank">
@@ -19,7 +18,7 @@
 
 👨🏽‍💻 Nací el 6 de Febrero de 1999 en Argentina. Apasionado por la tecnología desde muy joven y de la programación desde que me adentre en el mundo de forma autodidacta. Considero que la mejor herramienta es el conocimiento de uno mismo, mi mayor motivación es seguir aprendiendo, fortaleciendo mi desarrollo personal y profesional.
 
-📫 How to reach me: ivanpugliese02@gmail.com
+📫 Contactame: ivanpugliese02@gmail.com
 
 
 
