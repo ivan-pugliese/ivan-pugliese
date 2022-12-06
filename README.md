@@ -17,10 +17,8 @@
   </a>
 </div>
 
-📫 Puedes contactarme a través de: 
+📫 Puedes contactarme a través de:
     ivanpugliese02@gmail.com
-    +541122688001
-
 
 **Tecnologías:**  
 
