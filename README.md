@@ -1,4 +1,4 @@
-### Hi there 👋, I´m Ivan 👋🏼👨🏻‍💻
+### Hi there 👋, I´m Ivan Pugliese 👨🏻‍💻
 
 <hr>
 
