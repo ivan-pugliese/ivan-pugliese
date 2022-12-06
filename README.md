@@ -1,20 +1,27 @@
-### Hi there 👋
+### Hi there 👋, I´m Ivan
+
+<h2><i>Follow me:</i></h2>
+<div  align="center">
+
+  <a href="https://www.linkedin.com/in/ivan-pugliese-developer/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/1ivanpugliese/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&color=071A2C" alt="Instagram">
+  </a>
+  <a href="https://www.facebook.com/Ivan.agustin.pugliese" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white&color=071A2C" alt="Facebook">
+  </a>
+ <a href="https://twitter.com/1ivanpugliese" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231877F2.svg?&style=flat-square&logo=twitter&logoColor=white&color=071A2C" alt="Twitter">
+  </a>
+</div>
+
+👨🏽‍💻 Nací el 6 de Febrero de 1999 en Argentina. Apasionado por la tecnología desde muy joven y de la programación desde que me adentre en el mundo de forma autodidacta. Considero que la mejor herramienta es el conocimiento de uno mismo, mi mayor motivación es seguir aprendiendo, fortaleciendo mi desarrollo personal y profesional.
+
+📫 How to reach me: ivanpugliese02@gmail.com
 
 
-<!--
-**ivan-pugliese/ivan-pugliese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 **Languages and Tools:**  
 
@@ -30,3 +37,6 @@ Here are some ideas to get you started:
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=callmemehdi&show_icons=true&hide_border=true)
+
+⭐️ From [Ivan Pugliese](https://github.com/ivan-pugliese)
