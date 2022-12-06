@@ -1,6 +1,4 @@
-### Hi there 👋, I´m Ivan Pugliese 👨🏻‍💻
-
-<hr>
+## Hi there 👋, I´m Ivan Pugliese 👨🏻‍💻
 
 <div  align="left">
   <a href="https://www.linkedin.com/in/ivan-pugliese-developer/" target="_blank">
