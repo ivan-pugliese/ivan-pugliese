@@ -18,12 +18,10 @@
 
 👨🏽‍💻 Nací el 6 de Febrero de 1999 en Argentina. Apasionado por la tecnología desde muy joven y de la programación desde que me adentre en el mundo de forma autodidacta. Considero que la mejor herramienta es el conocimiento de uno mismo, mi mayor motivación es seguir aprendiendo, fortaleciendo mi desarrollo personal y profesional.
 
-📫 Contácto: ivanpugliese02@gmail.com
-
+📫 Contáctame: ivanpugliese02@gmail.com
 
 
 **Tecnologías:**  
-
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -36,6 +34,5 @@
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=ivanpugliese&show_icons=true&hide_border=true)
 
 ⭐️ From [Ivan Pugliese](https://github.com/ivan-pugliese)
